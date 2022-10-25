@@ -1,10 +1,10 @@
 # DAD
-##Codes for 《Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation》  
+## Codes for 《Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation》  
 We will upload codes and results soon!   
-###We have uploaded the codes for inference, you can just download the pretianed models and the trained models in the following link:   
+### We have uploaded the codes for inference, you can just download the pretianed models and the trained models in the following link:   
 pretrained_model：https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks (BaiduDisk)   
 trained_model: https://pan.baidu.com/s/11vfJWGYxpYSU5zHr_V2KTg?pwd=oazk (BaiduDisk) 
-###We have released the visual results for four tasks based on four well-known backbones:
+### We have released the visual results for four tasks based on four well-known backbones:   
 (Camouflaged Object Detection) ResNet50：https://pan.baidu.com/s/1DUgW7xUpVgv0C4lKwNjPtg?pwd=2u1y (BaiduDisk)   
 (Camouflaged Object Detection) Res2Net50：https://pan.baidu.com/s/1HYrdFyp69Ql3GNvY8FRLuA?pwd=4k47 (BaiduDisk)      
 (Camouflaged Object Detection) PVT_V2_B2:：https://pan.baidu.com/s/1fITq29BIU6qT7BPKk8VdDw?pwd=2opt (BaiduDisk)   
