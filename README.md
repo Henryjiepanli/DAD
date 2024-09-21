@@ -37,7 +37,6 @@ We provide inference code along with pretrained and trained models. You can down
   - **ResNet-50**: [Download](https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks) (Access Code: `41ks`)
   - **Res2Net-50**: [Download](https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks) (Access Code: `41ks`)
   - **PVT-v2-b2**: [Download](https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks) (Access Code: `41ks`)
-  - **PVT-v2-b4**: [Download](https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks) (Access Code: `41ks`)
 
 - **Trained Models**:
   - **COD**:
