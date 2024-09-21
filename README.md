@@ -51,6 +51,11 @@ To test the trained models, run the following command:
 
 ```bash
 python test.py --task COD --backbone resnet --pth_path './Experiments/DAD/'
+python test.py --task COD --backbone res2net --pth_path './Experiments/DAD/'
+python test.py --task COD --backbone v2_b2 --pth_path './Experiments/DAD/'
+python test.py --task SOD --backbone resnet --pth_path './Experiments/DAD/'
+python test.py --task SOD --backbone res2net --pth_path './Experiments/DAD/'
+python test.py --task SOD --backbone v2_b2 --pth_path './Experiments/DAD/'
 ```
 
 ## Visual Results for Multiple Tasks and Backbones
