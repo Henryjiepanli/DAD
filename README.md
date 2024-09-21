@@ -1,6 +1,4 @@
-好的，这里是经过调整的 README 内容：
 
-```markdown
 # DAD: Difference-Aware Decoder for Binary Segmentation
 
 This repository contains the code for our paper:  
