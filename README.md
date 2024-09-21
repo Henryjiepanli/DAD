@@ -34,23 +34,23 @@ To train the DAD model, follow these steps:
 We provide inference code along with pretrained and trained models. You can download them using the links below:
 
 - **Pretrained Models**:
-  - **ResNet-50**: [Download](https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks) (Access Code: `41ks`)
-  - **Res2Net-50**: [Download](https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks) (Access Code: `41ks`)
-  - **PVT-v2-b2**: [Download](https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks) (Access Code: `41ks`)
+  - **ResNet-50**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
+  - **Res2Net-50**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
+  - **PVT-v2-b2**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
 
 - **Trained Models**:
   - **COD**:
-    - **ResNet-50**: [Download](https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks) (Access Code: `41ks`)
-    - **Res2Net-50**: [Download](https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks) (Access Code: `41ks`)
-    - **PVT-v2-b2**: [Download](https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks) (Access Code: `41ks`)
+    - **ResNet-50**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
+    - **Res2Net-50**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
+    - **PVT-v2-b2**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
   - **SOD**:
-    - **ResNet-50**: [Download](https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks) (Access Code: `41ks`)
-    - **Res2Net-50**: [Download](https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks) (Access Code: `41ks`)
-    - **PVT-v2-b2**: [Download](https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks) (Access Code: `41ks`)
+    - **ResNet-50**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
+    - **Res2Net-50**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
+    - **PVT-v2-b2**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
   - **Polyp Segmentation**:
-    - **PVT-v2-b2**: [Download](https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks) (Access Code: `41ks`)
+    - **PVT-v2-b2**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
   - **Mirror Detection**:
-    - **PVT-v2-b2**: [Download](https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks) (Access Code: `41ks`)
+    - **PVT-v2-b2**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
 
 To test the trained models, run the following command:
 
