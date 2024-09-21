@@ -26,7 +26,6 @@ To test the trained models, run the the following command:
 ```bash
 python test.py --task COD --backbone resnet --pth_path './Experiments/DAD/'
 
-
 ## Visual Results for Multiple Tasks and Backbones
 
 We have released visual results for different tasks using various backbones. You can access them from the following links:
@@ -37,22 +36,21 @@ We have released visual results for different tasks using various backbones. You
 
 - **ResNet50**: [Download from BaiduDisk](https://pan.baidu.com/s/1DUgW7xUpVgv0C4lKwNjPtg?pwd=2u1y) (Access Code: `2u1y`)
 - **Res2Net50**: [Download from BaiduDisk](https://pan.baidu.com/s/1HYrdFyp69Ql3GNvY8FRLuA?pwd=4k47) (Access Code: `4k47`)
-- **PVT_V2_B2**: [Download from BaiduDisk](https://pan.baidu.com/s/1fITq29BIU6qT7BPKk8VdDw?pwd=2opt) (Access Code: `2opt`)
+- **PVT-v2-b2**: [Download from BaiduDisk](https://pan.baidu.com/s/1fITq29BIU6qT7BPKk8VdDw?pwd=2opt) (Access Code: `2opt`)
 
 ### Salient Object Detection
 ![COD](SOD.png)
-- **VGG-16**: [Download from BaiduDisk](https://pan.baidu.com/s/1IUOhYJUSrVPpZ1AEZaOhdg?pwd=hp3r) (Access Code: `hp3r`)
 - **ResNet50**: [Download from BaiduDisk](https://pan.baidu.com/s/1McQ--BqJJk1EJFj1_ui2wQ?pwd=nx6j) (Access Code: `nx6j`)
 - **Res2Net50**: [Download from BaiduDisk](https://pan.baidu.com/s/18gSvey7ik4okQQ_hZcbQkQ?pwd=mw7n) (Access Code: `mw7n`)
-- **PVT_V2_B2**: [Download from BaiduDisk](https://pan.baidu.com/s/1OjWFJ0V-8r_uGVwj2wSApA?pwd=6ok6) (Access Code: `6ok6`)
+- **PVT-v2-b2**: [Download from BaiduDisk](https://pan.baidu.com/s/1OjWFJ0V-8r_uGVwj2wSApA?pwd=6ok6) (Access Code: `6ok6`)
 
 ### Mirror Detection
 
-- **ResNeXt101**: [Download from BaiduDisk](https://pan.baidu.com/s/18UY058BY0Ed3PzXcZRAuQw?pwd=m7hx) (Access Code: `m7hx`)
+- **PVT-v2-b2**: [Download from BaiduDisk](https://pan.baidu.com/s/18UY058BY0Ed3PzXcZRAuQw?pwd=m7hx) (Access Code: `m7hx`)
 
 ### Polyp Segmentation
 
-- **PVT_V2_B2**: [Download from BaiduDisk](https://pan.baidu.com/s/1ZKFaPi7zUy8OrScfTnATeA?pwd=ruun) (Access Code: `ruun`)
+- **PVT-v2-b2**: [Download from BaiduDisk](https://pan.baidu.com/s/1ZKFaPi7zUy8OrScfTnATeA?pwd=ruun) (Access Code: `ruun`)
 
 ## Citation
 
