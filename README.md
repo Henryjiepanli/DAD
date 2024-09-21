@@ -3,8 +3,6 @@
 This repository contains the code for our paper:  
 **[Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation](https://arxiv.org/abs/2210.15156)**.
 
-We will soon release the full code and results. Please stay tuned for updates!
-
 ## Inference Code and Pretrained Models
 
 We have uploaded the inference code along with pretrained and trained models. You can download them using the links below:
@@ -18,12 +16,14 @@ We have released visual results for different tasks using various backbones. You
 
 ### Camouflaged Object Detection
 
+![COD](COD.png)
+
 - **ResNet50**: [Download from BaiduDisk](https://pan.baidu.com/s/1DUgW7xUpVgv0C4lKwNjPtg?pwd=2u1y) (Access Code: `2u1y`)
 - **Res2Net50**: [Download from BaiduDisk](https://pan.baidu.com/s/1HYrdFyp69Ql3GNvY8FRLuA?pwd=4k47) (Access Code: `4k47`)
 - **PVT_V2_B2**: [Download from BaiduDisk](https://pan.baidu.com/s/1fITq29BIU6qT7BPKk8VdDw?pwd=2opt) (Access Code: `2opt`)
 
 ### Salient Object Detection
-
+![COD](SOD.png)
 - **VGG-16**: [Download from BaiduDisk](https://pan.baidu.com/s/1IUOhYJUSrVPpZ1AEZaOhdg?pwd=hp3r) (Access Code: `hp3r`)
 - **ResNet50**: [Download from BaiduDisk](https://pan.baidu.com/s/1McQ--BqJJk1EJFj1_ui2wQ?pwd=nx6j) (Access Code: `nx6j`)
 - **Res2Net50**: [Download from BaiduDisk](https://pan.baidu.com/s/18gSvey7ik4okQQ_hZcbQkQ?pwd=mw7n) (Access Code: `mw7n`)
