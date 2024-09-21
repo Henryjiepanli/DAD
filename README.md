@@ -1,6 +1,12 @@
 
 # DAD: Difference-Aware Decoder for Binary Segmentation
 
+**Abstract**: Inspired by the way human eyes detect objects, we propose a new unified dual-branch decoder paradigm, termed the Difference-Aware Decoder (DAD), designed to explore the differences between foreground and background effectively, thereby enhancing the separation of objects of interest in optical images. The DAD operates in two stages, leveraging multi-level features from the encoder. In the first stage, it achieves coarse detection of foreground objects by utilizing high-level semantic features, mimicking the initial rough observation typical of human vision. In the second stage, the decoder refines segmentation by examining differences in low-level features, guided by the coarse map generated in the first stage.
+
+![COD](COD.png)
+
+![SOD](SOD.png)
+
 This repository contains the code for our paper:  
 **[Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation](https://arxiv.org/abs/2210.15156)**.
 
@@ -8,7 +14,7 @@ This repository contains the code for our paper:
 
 To train the DAD model, follow these steps:
 
-1. Set the task (COD/SOD/Poly/MSD), batch size, and specify the GPU for training. Run the following commands:
+1. Set the task (COD/SOD/Poly/MSD), batch size, and specify the GPU for training. Execute the following commands:
 
    ```bash
    python train.py --gpu_id 0 --task COD --batchsize 8 --backbone resnet
@@ -25,7 +31,7 @@ To train the DAD model, follow these steps:
 
 ## Inference Code and Pretrained Models
 
-We have uploaded the inference code along with pretrained and trained models. You can download them using the links below:
+We provide inference code along with pretrained and trained models. You can download them using the links below:
 
 - **Pretrained Models**:
   - **ResNet-50**: [Download](https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks) (Access Code: `41ks`)
@@ -60,19 +66,15 @@ python test.py --task SOD --backbone v2_b2 --pth_path './Experiments/DAD/'
 
 ## Visual Results for Multiple Tasks and Backbones
 
-We have released visual results for different tasks using various backbones. You can access them from the following links:
+We have released visual results for various tasks using different backbones. You can access them from the following links:
 
 ### Camouflaged Object Detection (COD)
-
-![COD](COD.png)
 
 - **ResNet-50**: [Download from BaiduDisk](https://pan.baidu.com/s/1DUgW7xUpVgv0C4lKwNjPtg?pwd=2u1y) (Access Code: `2u1y`)
 - **Res2Net-50**: [Download from BaiduDisk](https://pan.baidu.com/s/1HYrdFyp69Ql3GNvY8FRLuA?pwd=4k47) (Access Code: `4k47`)
 - **PVT-v2-b2**: [Download from BaiduDisk](https://pan.baidu.com/s/1fITq29BIU6qT7BPKk8VdDw?pwd=2opt) (Access Code: `2opt`)
 
 ### Salient Object Detection (SOD)
-
-![SOD](SOD.png)
 
 - **ResNet-50**: [Download from BaiduDisk](https://pan.baidu.com/s/1McQ--BqJJk1EJFj1_ui2wQ?pwd=nx6j) (Access Code: `nx6j`)
 - **Res2Net-50**: [Download from BaiduDisk](https://pan.baidu.com/s/18gSvey7ik4okQQ_hZcbQkQ?pwd=mw7n) (Access Code: `mw7n`)
