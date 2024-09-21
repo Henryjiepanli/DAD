@@ -3,12 +3,29 @@
 This repository contains the code for our paper:  
 **[Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation](https://arxiv.org/abs/2210.15156)**.
 
+## Training Instructions
+
+To train the DAD model, follow these steps:
+
+1. Set the task (COD/SOD/Poly/MSD), batch size, and specify the GPU for training. Run the following commands:
+
+   ```bash
+   python train.py --gpu_id 0 --task COD --batchsize 8 --backbone resnet
+   python train.py --gpu_id 0 --task COD --batchsize 8 --backbone res2net
+   python train.py --gpu_id 0 --task COD --batchsize 8 --backbone v2_b2
+   python train.py --gpu_id 0 --task COD --batchsize 8 --backbone v2_b4
+
 ## Inference Code and Pretrained Models
 
 We have uploaded the inference code along with pretrained and trained models. You can download them using the links below:
 
 - **Pretrained model**: [Download from BaiduDisk](https://pan.baidu.com/s/1O0jn2RUzDCELLQm6X-HF2w?pwd=41ks) (Access Code: `41ks`)
 - **Trained model**: [Download from BaiduDisk](https://pan.baidu.com/s/11vfJWGYxpYSU5zHr_V2KTg?pwd=oazk) (Access Code: `oazk`)
+
+To test the trained models, run the the following command:
+```bash
+python test.py --task COD --backbone resnet --pth_path './Experiments/DAD/'
+
 
 ## Visual Results for Multiple Tasks and Backbones
 
