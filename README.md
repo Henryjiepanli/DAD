@@ -16,7 +16,13 @@ To train the DAD model, follow these steps:
    python train.py --gpu_id 0 --task COD --batchsize 8 --backbone resnet
    python train.py --gpu_id 0 --task COD --batchsize 8 --backbone res2net
    python train.py --gpu_id 0 --task COD --batchsize 8 --backbone v2_b2
-   python train.py --gpu_id 0 --task COD --batchsize 8 --backbone v2_b4
+
+   python train.py --gpu_id 0 --task SOD --batchsize 8 --backbone resnet
+   python train.py --gpu_id 0 --task SOD --batchsize 8 --backbone res2net
+   python train.py --gpu_id 0 --task SOD --batchsize 8 --backbone v2_b2
+
+   python train.py --gpu_id 0 --task Poly --batchsize 8 --backbone v2_b2
+   python train.py --gpu_id 0 --task MSD --batchsize 8 --backbone v2_b2
    ```
 
 ## Inference Code and Pretrained Models
