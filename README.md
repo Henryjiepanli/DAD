@@ -69,23 +69,23 @@ We have released visual results for various tasks using different backbones. You
 
 ### Camouflaged Object Detection (COD)
 
-- **ResNet-50**: [Download from BaiduDisk](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
-- **Res2Net-50**: [Download from BaiduDisk](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
-- **PVT-v2-b2**: [Download from BaiduDisk](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
+- **ResNet-50**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
+- **Res2Net-50**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
+- **PVT-v2-b2**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
 
 ### Salient Object Detection (SOD)
 
-- **ResNet-50**: [Download from BaiduDisk](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
-- **Res2Net-50**: [Download from BaiduDisk](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
-- **PVT-v2-b2**: [Download from BaiduDisk](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
+- **ResNet-50**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
+- **Res2Net-50**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
+- **PVT-v2-b2**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
 
 ### Mirror Detection
 
-- **PVT-v2-b2**: [Download from BaiduDisk](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
+- **PVT-v2-b2**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
 
 ### Polyp Segmentation
 
-- **PVT-v2-b2**: [Download from BaiduDisk](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
+- **PVT-v2-b2**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
 
 ## Citation
 
