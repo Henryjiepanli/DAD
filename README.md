@@ -92,9 +92,9 @@ We have released visual results for various tasks using different backbones. You
 If you find our work useful, please consider citing our paper:
 
 ```bibtex
-@article{YourPaper2022,
-  title={Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation},
-  author={Your Name and Co-authors},
+@article{li2022towards,
+  title={Towards complex backgrounds: A unified difference-aware decoder for binary segmentation},
+  author={Li, Jiepan and He, Wei and Zhang, Hongyan},
   journal={arXiv preprint arXiv:2210.15156},
   year={2022}
 }
