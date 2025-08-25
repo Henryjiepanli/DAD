@@ -20,6 +20,7 @@ To train the DAD model, follow these steps:
    python train.py --gpu_id 0 --task COD --batchsize 8 --backbone resnet
    python train.py --gpu_id 0 --task COD --batchsize 8 --backbone res2net
    python train.py --gpu_id 0 --task COD --batchsize 8 --backbone v2_b2
+   python train.py --gpu_id 0 --task COD --batchsize 8 --backbone v2_b4
 
    python train.py --gpu_id 0 --task SOD --batchsize 8 --backbone resnet
    python train.py --gpu_id 0 --task SOD --batchsize 8 --backbone res2net
@@ -58,6 +59,7 @@ To test the trained models, run the following command:
 python test.py --task COD --backbone resnet --pth_path './Experiments/DAD/'
 python test.py --task COD --backbone res2net --pth_path './Experiments/DAD/'
 python test.py --task COD --backbone v2_b2 --pth_path './Experiments/DAD/'
+python test.py --task COD --backbone v2_b4 --pth_path './Experiments/DAD/'
 python test.py --task SOD --backbone resnet --pth_path './Experiments/DAD/'
 python test.py --task SOD --backbone res2net --pth_path './Experiments/DAD/'
 python test.py --task SOD --backbone v2_b2 --pth_path './Experiments/DAD/'
