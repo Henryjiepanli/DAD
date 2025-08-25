@@ -72,6 +72,7 @@ We have released visual results for various tasks using different backbones. You
 - **ResNet-50**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
 - **Res2Net-50**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
 - **PVT-v2-b2**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
+- **PVT-v2-b4**: [Download]( https://pan.baidu.com/s/10skNCkRxHybFiygGMXSiMA?pwd=dadp)
 
 ### Salient Object Detection (SOD)
 
