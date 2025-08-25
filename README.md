@@ -3,10 +3,6 @@
 
 **Abstract**: Inspired by the way human eyes detect objects, we propose a new unified dual-branch decoder paradigm, termed the Difference-Aware Decoder (DAD), designed to explore the differences between foreground and background effectively, thereby enhancing the separation of objects of interest in optical images. The DAD operates in two stages, leveraging multi-level features from the encoder. In the first stage, it achieves coarse detection of foreground objects by utilizing high-level semantic features, mimicking the initial rough observation typical of human vision. In the second stage, the decoder refines segmentation by examining differences in low-level features, guided by the coarse map generated in the first stage.
 
-![COD](COD.png)
-
-![SOD](SOD.png)
-
 This repository contains the code for our paper:  
 **[Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation](https://arxiv.org/abs/2210.15156)**.
 
@@ -44,6 +40,7 @@ We provide inference code along with pretrained and trained models. You can down
     - **ResNet-50**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
     - **Res2Net-50**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
     - **PVT-v2-b2**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
+    - **PVT-v2-b4**: [Download]( https://pan.baidu.com/s/10skNCkRxHybFiygGMXSiMA?pwd=dadp)
   - **SOD**:
     - **ResNet-50**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
     - **Res2Net-50**: [Download](https://pan.baidu.com/s/1JmgYZXXWsU_6xfnO3tKApA?pwd=xnhz)
