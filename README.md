@@ -1,7 +1,7 @@
 
 # DAD: Difference-Aware Decoder for Binary Segmentation
 
-We are delighted to share that our paper has been successfully accepted by the IIEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2025).
+We are delighted to share that our paper has been successfully accepted by the IIEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2025).[Paper Link](https://ieeexplore.ieee.org/document/11175179).
 
 **Abstract**: Inspired by the way human eyes detect objects, we propose a new unified dual-branch decoder paradigm, termed the Difference-Aware Decoder (DAD), designed to explore the differences between foreground and background effectively, thereby enhancing the separation of objects of interest in optical images. The DAD operates in two stages, leveraging multi-level features from the encoder. In the first stage, it achieves coarse detection of foreground objects by utilizing high-level semantic features, mimicking the initial rough observation typical of human vision. In the second stage, the decoder refines segmentation by examining differences in low-level features, guided by the coarse map generated in the first stage.
 
@@ -94,10 +94,15 @@ We have released visual results for various tasks using different backbones. You
 If you find our work useful, please consider citing our paper:
 
 ```bibtex
-@article{li2022towards,
-  title={Towards complex backgrounds: A unified difference-aware decoder for binary segmentation},
-  author={Li, Jiepan and He, Wei and Zhang, Hongyan},
-  journal={arXiv preprint arXiv:2210.15156},
-  year={2022}
+@ARTICLE{11175179,
+  author={Li, Jiepan and He, Wei and Lu, Fangxiao and Zhang, Hongyan},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCSVT.2025.3612574}}
+
 }
 ```
