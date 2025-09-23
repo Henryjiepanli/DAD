@@ -103,6 +103,5 @@ If you find our work useful, please consider citing our paper:
   number={},
   pages={1-1},
   doi={10.1109/TCSVT.2025.3612574}}
-
 }
 ```
