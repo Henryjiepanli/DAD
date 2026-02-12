@@ -97,11 +97,12 @@ If you find our work useful, please consider citing our paper:
 @ARTICLE{11175179,
   author={Li, Jiepan and He, Wei and Lu, Fangxiao and Zhang, Hongyan},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={1-1},
+  title={Toward Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation}, 
+  year={2026},
+  volume={36},
+  number={2},
+  pages={2372-2386},
   doi={10.1109/TCSVT.2025.3612574}}
+
 }
 ```
